@@ -1,0 +1,1 @@
+console.log("Simulating and Resolving Merge Conflicts");
