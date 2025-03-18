@@ -1,1 +1,1 @@
-console.log("Simulating and Resolving Merge ");
+console.log("Simulating and ");
